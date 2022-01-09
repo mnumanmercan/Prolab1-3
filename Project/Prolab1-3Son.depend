@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1640029158 source:c:\users\numan\desktop\pl1-3\prolab1-3son\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+
